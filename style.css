@@ -1,0 +1,69 @@
+body {
+background-color: #f6f2EF;
+color: black;
+font-family: 'Open Sans', sans-serif;
+text-align: : center;
+
+
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	letter-spacing: 10;
+	font-size: 32;
+	text-transform: uppercase;
+	color: black;
+	text-align: center;
+
+
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	letter-spacing: 10;
+	font-size: 32;
+	text-transform: uppercase;
+	text-align: : center;
+
+}
+
+a {
+	font-weight: bolder;
+	letter-spacing: 10;
+	font-size: 80;
+	color: black;
+	text-align: : center;
+	font-style: bold;
+
+
+}
+
+img {
+
+	border-radius: 70%;
+width: 480px;
+
+}
+
+.container {
+	width: 700px;
+	margin: 400px auto;
+
+}
+
+.list-inline {
+
+list-style: none;
+padding-left: 0px;
+
+
+}
+
+li {
+
+	list-style: none;
+	font-size: 50px;
+
+}
